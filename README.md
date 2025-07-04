@@ -59,13 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
 <img src="https://raw.githubusercontent.com/mozilla/browser-icon/master/src/in/browser/chrome/chrome-t-rex.svg" width="60" style="background-color:white; padding:6px; border-radius:10px;"/>
-
-
-
-
- 
-
-
 </p>
 
 
