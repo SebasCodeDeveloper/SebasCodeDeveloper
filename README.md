@@ -41,15 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
   <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="60" style="background-color:white; padding:6px; border-radius:10px;"/>
 
-<span style="background-color:#f7df1e; padding:10px; border-radius:50%; display:inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-</span>
-<span style="background-color:#3178C6; padding:10px; border-radius:50%; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-</span>
-<span style="background-color:white; padding:10px; border-radius:50%; display:inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40"/>
-</span>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="60"/>
 
 
 ---
