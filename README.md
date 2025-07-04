@@ -1,7 +1,4 @@
-<h1 align="center"><h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.gif" width="40"/>
-  Hi! I'm <strong>Jhoan Sebastián Peña</strong> 👨‍💻
-</h1>
+
  Hi! I'm <strong>Jhoan Sebastián Peña</strong> 👨‍💻</h1>
 
 <h1 align="center">
