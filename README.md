@@ -1,8 +1,7 @@
-<h1 align="center"><h1 align="center">
+<h1 align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.gif" width="40"/>
   Hi! I'm <strong>Jhoan Sebastián Peña</strong> 👨‍💻
 </h1>
- Hi! I'm <strong>Jhoan Sebastián Peña</strong> 👨‍💻</h1>
 
 <p align="center">
   <b>Web Developer</b> | <b>QA Automation Engineer</b> | Java & Angular Enthusiast
@@ -27,15 +26,20 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
+  <!-- Frameworks y Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+  
+  <!-- Íconos redondos -->
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="60" style="border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="60" style="border-radius: 50%;"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" width="60" style="border-radius: 50%;"/>
+  
+  <!-- Otros -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/>
@@ -44,19 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
   <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="60" style="background-color:white; padding:6px; border-radius:10px;"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60"/>
-
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="60" style="border-radius: 50%;"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="60" style="border-radius: 50%;"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" width="60" style="border-radius: 50%;"/>
-
-
+</p>
 
 ---
 
@@ -67,7 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasCodeDeveloper&layout=compact&theme=radical" width="45%" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=SebasCodeDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="SebasCodeDeveloper" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SebasCodeDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="SebasCodeDeveloper" />
+</p>
 
 ---
 
