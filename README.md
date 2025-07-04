@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.gif" width="40"/> Hi! I'm <strong>Jhoan Sebastián Peña</strong> 👨‍💻
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60" />
+  Hi! I'm <strong>Jhoan Sebastián Peña</strong> 👨‍💻
 </h1>
 
 <p align="center">
