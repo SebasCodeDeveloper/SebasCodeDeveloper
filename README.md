@@ -47,7 +47,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" width="60" style="border-radius: 50%;"/>
+
 
 
 
