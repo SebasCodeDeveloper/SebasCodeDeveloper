@@ -45,9 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
   <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="60" style="background-color:white; padding:6px; border-radius:10px;"/>
 
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/output/github-contribution-grid-snake.gif)
 
 
 
