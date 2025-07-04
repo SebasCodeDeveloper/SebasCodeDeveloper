@@ -58,8 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/img/dino.png" width="60" style="background-color:white; padding:6px; border-radius:10px;"/>
 <img src="https://github.com/SebasCodeDeveloper/assets/blob/main/dino-white-bg.png?raw=true" width="60" style="background-color:white; padding:6px; border-radius:10px;"/>
+
 
 </p>
 
