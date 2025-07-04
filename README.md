@@ -51,7 +51,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60"/>
 
   <!-- GitHub (logo en blanco para fondo negro) -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60"/>
 </p>
 
 
