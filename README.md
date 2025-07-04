@@ -1,16 +1,17 @@
+
 <h1 align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVoazdyNng1Nnh5ZGhtcjY4YjNwZGxjb3YyZDNqcnh5anh1ZnJnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zNp5710AnMXlfJxqas/giphy.gif" width="60" />
-  Hi! I'm <strong>Jhoan Sebastián Peña</strong> 👨‍💻
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3preXJrZ2lqOHc4NHpmMTgzbWRyc2ozeGhjcmk2NmM2a243MGc0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5G1VDKTWdvuVFa3TaM/giphy.gif" width="60" />
+  Hi! I'm <strong>Johan Sebastian Peña Ordoñez</strong>  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM1cnUzajV2YmVpYjhjbjJrajV2cm13YzZkdXc0OWE5ZmN0Ym9xeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60" />
 </h1>
-
-
-<p align="center">
+<p align="center" style="margin-bottom: -20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B0F7&background=50204D00&multiline=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" />
+</p>
+<p align="center" >
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXkzNWMzOGZ1YzVrY2kxcmtsb3ZrdTU2aHN0dGgyMzNnd2ZkY2szNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPn5EmNia9HSaTC/giphy.gif" width="100" style="margin-top: -3000%;" />
+</p>
+<h4 align="center">
   <b>Web Developer</b> | <b>QA Automation Engineer</b> | Java & Angular Enthusiast
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+clean+code+%7C+Automating+quality+%7C+Loving+Java+%26+Angular+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+ 
 
 ---
 
@@ -46,12 +47,11 @@
   <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="60" style="background-color:white; padding:6px; border-radius:10px;"/>
 
 
-
+<div align="center">
 ### 🐍 GitHub Contribution Snake
 
 ![Snake animation](https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
-
-
+</div>
 
 
 ---
