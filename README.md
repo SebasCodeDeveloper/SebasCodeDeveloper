@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVoazdyNng1Nnh5ZGhtcjY4YjNwZGxjb3YyZDNqcnh5anh1ZnJnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zNp5710AnMXlfJxqas/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVoazdyNng1Nnh5ZGhtcjY4YjNwZGxjb3YyZDNqcnh5anh1ZnJnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zNp5710AnMXlfJxqas/giphy.gif)" width="60" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVoazdyNng1Nnh5ZGhtcjY4YjNwZGxjb3YyZDNqcnh5anh1ZnJnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zNp5710AnMXlfJxqas/giphy.gif" width="60" />
   Hi! I'm <strong>Jhoan Sebastián Peña</strong> 👨‍💻
 </h1>
+
 
 <p align="center">
   <b>Web Developer</b> | <b>QA Automation Engineer</b> | Java & Angular Enthusiast
