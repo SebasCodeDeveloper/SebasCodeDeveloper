@@ -18,9 +18,6 @@
 
 ### 🛠️ Languages and Tools
 
-### 🛠️ Languages and Tools
-
-### 🛠️ Languages and Tools
 
 <p align="left">
   <!-- Angular -->
@@ -54,7 +51,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60"/>
 
   <!-- GitHub (logo en blanco para fondo negro) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: brightness(0) invert(1);" width="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" style="filter: brightness(0) invert(1);"/>
+
 </p>
 
 
