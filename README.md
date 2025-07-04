@@ -45,6 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
   <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="60" style="background-color:white; padding:6px; border-radius:10px;"/>
 
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
@@ -55,10 +58,13 @@
 ---
 
 ### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasCodeDeveloper&show_icons=true&theme=tokyonight&border_radius=20" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SebasCodeDeveloper&theme=tokyonight&hide_border=false" width="45%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebasCodeDeveloper&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasCodeDeveloper&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasCodeDeveloper&layout=compact&theme=tokyonight&border_radius=20" width="45%" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=SebasCodeDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="SebasCodeDeveloper" />
