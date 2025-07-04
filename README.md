@@ -47,8 +47,7 @@
 
 ### 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
-
+![snake gif](https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/output/github-contribution-grid-snake.gif)
 
 
 
