@@ -45,16 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
   <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="60" style="background-color:white; padding:6px; border-radius:10px;"/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60"/>
 
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="60" style="border-radius: 50%;"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="60" style="border-radius: 50%;"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" width="60" style="border-radius: 50%;"/>
 
 
 
