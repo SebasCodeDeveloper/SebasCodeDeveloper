@@ -46,7 +46,12 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="60"/>
+
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="60" style="border-radius: 50%;"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="60" style="border-radius: 50%;"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png" width="60" style="border-radius: 50%;"/>
+
 
 
 ---
