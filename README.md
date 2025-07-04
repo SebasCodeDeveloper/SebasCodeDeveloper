@@ -4,6 +4,10 @@
 </h1>
  Hi! I'm <strong>Jhoan Sebastián Peña</strong> 👨‍💻</h1>
 
+<h1 align="center">
+  Hi! <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.gif" width="40"/> I'm <strong>Jhoan Sebastián Peña</strong> 👨‍💻
+</h1>
+
 <p align="center">
   <b>Web Developer</b> | <b>QA Automation Engineer</b> | Java & Angular Enthusiast
 </p>
