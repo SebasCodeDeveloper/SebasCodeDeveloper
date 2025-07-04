@@ -37,6 +37,11 @@
 
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60"/>
+
+  <!-- GitHub (logo en blanco para fondo negro) -->
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60"/>
 
   <!-- Selenium -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60"/>
@@ -48,11 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
 
   <!-- Git (mejor visibilidad en fondo oscuro) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60"/>
-
-  <!-- GitHub (logo en blanco para fondo negro) -->
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60"/>
+ 
 
 
 </p>
