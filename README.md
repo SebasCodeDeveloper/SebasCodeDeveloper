@@ -47,6 +47,9 @@
 
 
 
+### 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
