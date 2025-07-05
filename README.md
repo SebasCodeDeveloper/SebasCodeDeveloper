@@ -73,15 +73,10 @@
 ### 📫 Contact Me
 
 <p>
-  ✉️ <strong>sebastianpena950@gmail.com</strong><br>
-  💼 <a href="https://linkedin.com/in/TUUSUARIO" target="_blank">LinkedIn</a><br>
+    <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/gmail.gif" width="40" /> <strong>sebastianpena950@gmail.com</strong>
+    <img src="https://media3.giphy.com/media/a9eTxCdJhDU98Jp79g/giphy.gif" width="60" alt="gmail gif" /> <a href="https://linkedin.com/in/TUUSUARIO" target="_blank">LinkedIn</a><br>
   🌐 <a href="https://tusitio.com" target="_blank">Portfolio</a><br><br>
 
-  <!-- Ícono animado de Gmail -->
-  <img src="https://media3.giphy.com/media/a9eTxCdJhDU98Jp79g/giphy.gif" width="60" alt="gmail gif" />
 
-  <!-- Alternativa funcional si la anterior no carga -->
-  <img src="" width="60" alt="gmail gif alt" />
-  
-</p>
 
+</div>
