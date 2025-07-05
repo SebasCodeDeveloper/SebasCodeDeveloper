@@ -74,6 +74,14 @@
 
 <p>
   ✉️ <strong>sebastianpena950@gmail.com</strong><br>
-  💼 <a href="https://linkedin.com/in/TUUSUARIO">LinkedIn</a><br>
-  🌐 <a href="https://tusitio.com">Portfolio</a>
+  💼 <a href="https://linkedin.com/in/TUUSUARIO" target="_blank">LinkedIn</a><br>
+  🌐 <a href="https://tusitio.com" target="_blank">Portfolio</a><br><br>
+
+  <!-- Ícono animado de Gmail -->
+  <img src="https://media3.giphy.com/media/a9eTxCdJhDU98Jp79g/giphy.gif" width="60" alt="gmail gif" />
+
+  <!-- Alternativa funcional si la anterior no carga -->
+  <img src="" width="60" alt="gmail gif alt" />
+  
 </p>
+
