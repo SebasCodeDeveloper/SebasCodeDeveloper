@@ -1,18 +1,17 @@
 
 <h1 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3preXJrZ2lqOHc4NHpmMTgzbWRyc2ozeGhjcmk2NmM2a243MGc0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5G1VDKTWdvuVFa3TaM/giphy.gif" width="60" />
-  Hi! I'm <strong>Johan Sebastian Peña Ordoñez</strong>  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM1cnUzajV2YmVpYjhjbjJrajV2cm13YzZkdXc0OWE5ZmN0Ym9xeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="60" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3preXJrZ2lqOHc4NHpmMTgzbWRyc2ozeGhjcmk2NmM2a243MGc0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5G1VDKTWdvuVFa3TaM/giphy.gif" width="50" />
+  Hi! I'm <strong>Johan Sebastian Peña</strong><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM1cnUzajV2YmVpYjhjbjJrajV2cm13YzZkdXc0OWE5ZmN0Ym9xeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" />
 </h1>
-<p align="center" style="margin-bottom: -20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B0F7&background=50204D00&multiline=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" />
+<p align="center"">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B0F7&background=50204D00&multiline=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG"/>
 </p>
 <p align="center" >
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXkzNWMzOGZ1YzVrY2kxcmtsb3ZrdTU2aHN0dGgyMzNnd2ZkY2szNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPn5EmNia9HSaTC/giphy.gif" width="100" style="margin-top: -3000%;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXkzNWMzOGZ1YzVrY2kxcmtsb3ZrdTU2aHN0dGgyMzNnd2ZkY2szNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPn5EmNia9HSaTC/giphy.gif" width="100"" />
 </p>
 <h4 align="center">
   <b>Web Developer</b> | <b>QA Automation Engineer</b> | Java & Angular Enthusiast
- 
-
+  
 ---
 
 ### 👨‍💻 About Me
@@ -79,4 +78,4 @@
 
 
 
-</div>
+
