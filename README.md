@@ -1,3 +1,4 @@
+<!-- First section with is due adjustenents-->
 <div align="center" >
 <h1> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3preXJrZ2lqOHc4NHpmMTgzbWRyc2ozeGhjcmk2NmM2a243MGc0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5G1VDKTWdvuVFa3TaM/giphy.gif" width="50" />
   Hi! I'm <strong>Johan Sebastian Peña</strong><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM1cnUzajV2YmVpYjhjbjJrajV2cm13YzZkdXc0OWE5ZmN0Ym9xeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" />   
@@ -16,20 +17,23 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<a target="_blank" align="center">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<!-- Seccons section withits due adjustments -->
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="position: relative; top: -5px;" />
+  <strong>About me</strong>
+</h2>
+</div>
+<a target="_blank">
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 </a>
 
-<br><br>
-- 💻 Passionate about **web development** and **test automation**
-- ⚙️ Experienced in **Java**, **Angular**, **Selenium**, **JUnit**
-- 🧪 Skilled in functional, regression, and automated testing
-- 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira**
+- 💻 Passionate about **web development** and **test automation**  
+- ⚙️ Experienced in **Java**, **Angular**, **Selenium**, **JUnit**  
+- 🧪 Skilled in functional, regression, and automated testing  
+- 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira**  
 - 🚀 Constantly learning and improving internal systems through automation
-<br> <br>
-
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### 🛠️ Languages and Tools
