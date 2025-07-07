@@ -58,9 +58,9 @@
 
   ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebasCodeDeveloper&show_icons=true&theme=tokyonight&border_radius=20" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SebasCodeDeveloper&theme=tokyonight&hide_border=false" width="45%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasCodeDeveloper&show_icons=true&theme=tokyonight&border_radius=20" width="45%" />&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp;  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SebasCodeDeveloper&theme=tokyonight&hide_border=false&border_radius=20" width="47.5%" />
+</p> <br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasCodeDeveloper&layout=compact&theme=tokyonight&border_radius=20" width="45%" />
@@ -68,41 +68,51 @@
 
 <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=SebasCodeDeveloper&style=plastic&color=blueviolet"alt="SebasCodeDeveloper"/>
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 
-<br><br>
+
+<!-- dwdcdac-->
+<div align="center">
+  <h3>
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" />
+    For More Information, Please Check Out or Connect Me Via
+  </h3>
+</div>
+<br>
+
 </div>
 <p align="center">
-  <a href="mailto:tien.huynhlt.tn@gmail.com"  style="outline: none; border: none;">
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/gmail.gif" />
+  <a href="mailto:sebatianpena950@gmail.com"  target="_blank">
+    <img align="center" alt="TienHuynh-TN | Gmail" width="50px" src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/gmail.gif" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank" style="outline: none;">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="43px" src="https://media3.giphy.com/media/a9eTxCdJhDU98Jp79g/giphy.gif" />
+  <a href="www.linkedin.com/in/sebastian-penna-dev" target="_blank">
+    <img align="center" alt="TienHuynh-TN | Linkedin" width="7%" src="https://media3.giphy.com/media/a9eTxCdJhDU98Jp79g/giphy.gif" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
-      <img align="center"  width="44px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHMwbHBtODN4c3R2cTBpMGl3MmF4d3E0ZHM0emF5NWs4YzF2MWE1dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pUAgNUnRUqxyx5PsHe/giphy.gif" />
+  <a href="https://www.facebook.com/sebastian.pena.507464/" target="_blank">
+      <img align="center"  width="65px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHMwbHBtODN4c3R2cTBpMGl3MmF4d3E0ZHM0emF5NWs4YzF2MWE1dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pUAgNUnRUqxyx5PsHe/giphy.gif" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Instagram" width="35px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s5ZG1qYmV1a2sybHV0eGt1ejhsNXhkc2t1OThyamozOWFzd29vMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rZAStCy2giIh7le1Gs/giphy.gif" />
+  <a href="https://www.instagram.com/sebas.720.pdc/" target="_blank">
+    <img align="center" alt="TienHuynh-TN | Instagram" width="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s5ZG1qYmV1a2sybHV0eGt1ejhsNXhkc2t1OThyamozOWFzd29vMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rZAStCy2giIh7le1Gs/giphy.gif" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW91YjQ0eHppM2c5bmluajMyN2VhaW1xeDY5djI0YXMyYm9nYjN0aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
-  </a> &nbsp;&nbsp; 
+  <a href="https://github.com/SebasCodeDeveloper" target="_blank">
+    <img align="center" alt="TienHuynh-TN | GitHub" width="40px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW91YjQ0eHppM2c5bmluajMyN2VhaW1xeDY5djI0YXMyYm9nYjN0aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
+  </a> &nbsp;&nbsp;  
+<br><br>
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
-</div> <br> 
+  &copy; 2025 Johan Sebastian Peña Ordoñez
+</div> 
 
 <div align="center"> 
-  <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="100px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW91YjQ0eHppM2c5bmluajMyN2VhaW1xeDY5djI0YXMyYm9nYjN0aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="10%"/>
+	
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </div>
 
