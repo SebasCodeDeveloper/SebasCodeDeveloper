@@ -70,7 +70,7 @@
 <!-- dwdcdac-->
 <div align="center">
   <h3>
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" />
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" />
     For More Information, Please Check Out or Connect Me Via
   </h3>
 </div>
