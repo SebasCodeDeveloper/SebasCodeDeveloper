@@ -1,7 +1,7 @@
 <!-- First section with is due adjustenents-->
 <div align="center" >
 <h1> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3preXJrZ2lqOHc4NHpmMTgzbWRyc2ozeGhjcmk2NmM2a243MGc0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5G1VDKTWdvuVFa3TaM/giphy.gif" width="50" />
-  Hi! I'm <strong>Johan Sebastian Peña</strong><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM1cnUzajV2YmVpYjhjbjJrajV2cm13YzZkdXc0OWE5ZmN0Ym9xeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" />   
+  Hi! I'm <strong>Johan Peña</strong><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM1cnUzajV2YmVpYjhjbjJrajV2cm13YzZkdXc0OWE5ZmN0Ym9xeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50" />   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"">
@@ -23,11 +23,11 @@
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 </a>
 
-- 💻 Passionate about **web development** and **test automation**  
-- ⚙️ Experienced in **Java**, **Angular**, **Selenium**, **JUnit**  
-- 🧪 Skilled in functional, regression, and automated testing  
-- 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira**  
-- 🚀 Constantly learning and improving internal systems through automation
+ 💻 Passionate about **web development** and **test automation**  
+ ⚙️ Experienced in **Java**, **Angular**, **Selenium**, **JUnit**  
+ 🧪 Skilled in functional, regression, and automated testing  
+ 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira**  
+ 🚀 Constantly learning and improving internal systems through automation
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -71,15 +71,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📫 Contact Me
-
-<p>
-    <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/gmail.gif" width="40" /> <strong>sebastianpena950@gmail.com</strong>
-    <img src="https://media3.giphy.com/media/a9eTxCdJhDU98Jp79g/giphy.gif" width="60" alt="gmail gif" /> <a href="https://linkedin.com/in/TUUSUARIO" target="_blank">LinkedIn</a><br>
-  🌐 <a href="https://tusitio.com" target="_blank">Portfolio</a><br><br>
-
-
-
+### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 
 <div align="right">
  <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="100px"/>
@@ -91,26 +83,26 @@
 
 
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+
 <p align="center">
   <a href="mailto:tien.huynhlt.tn@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/gmail.gif" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="TienHuynh-TN | Linkedin" width="43px" src="https://media3.giphy.com/media/a9eTxCdJhDU98Jp79g/giphy.gif" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
-      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+      <img align="center" alt="TienHuynh-TN | Facebook" width="44px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHMwbHBtODN4c3R2cTBpMGl3MmF4d3E0ZHM0emF5NWs4YzF2MWE1dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pUAgNUnRUqxyx5PsHe/giphy.gif" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="center" alt="TienHuynh-TN | Instagram" width="35px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s5ZG1qYmV1a2sybHV0eGt1ejhsNXhkc2t1OThyamozOWFzd29vMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rZAStCy2giIh7le1Gs/giphy.gif" />
   </a> &nbsp;&nbsp;
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW91YjQ0eHppM2c5bmluajMyN2VhaW1xeDY5djI0YXMyYm9nYjN0aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
   </a> &nbsp;&nbsp;
 <p> 
 
