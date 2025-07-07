@@ -89,7 +89,7 @@
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/gmail.gif" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/" ">
+  <a href="https://www.linkedin.com/in/tienhuynh-tn/">
     <img align="center" alt="TienHuynh-TN | Linkedin" width="43px" src="https://media3.giphy.com/media/a9eTxCdJhDU98Jp79g/giphy.gif" />
   </a> &nbsp;&nbsp;
   
