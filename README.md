@@ -45,12 +45,6 @@
 </div>
 
 <div align="center">
-
-</div>
-
-
-
-<div align="center">
     <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -58,9 +52,9 @@
 
   ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebasCodeDeveloper&show_icons=true&theme=tokyonight&border_radius=20" width="45%" />&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp;  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SebasCodeDeveloper&theme=tokyonight&hide_border=false&border_radius=20" width="47.5%" />
-</p> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasCodeDeveloper&show_icons=true&theme=tokyonight&border_radius=20" width="45%" />&nbsp;&nbsp; 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SebasCodeDeveloper&theme=tokyonight&hide_border=false&border_radius=20" width="47.5%" />&nbsp;&nbsp;
+</p> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasCodeDeveloper&layout=compact&theme=tokyonight&border_radius=20" width="45%" />
