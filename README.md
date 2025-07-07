@@ -85,7 +85,7 @@
 
 
 <p align="center">
-  <a href="mailto:tien.huynhlt.tn@gmail.com" target="_blank" style="outline: none;">
+  <a href="mailto:tien.huynhlt.tn@gmail.com" style="outline: none;">
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/gmail.gif" />
   </a> &nbsp;&nbsp;
   
