@@ -18,11 +18,7 @@
 </div>
 
 <!-- Seccons section withits due adjustments -->
-<h2>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="position: relative; top: -5px;" />
-  <strong>About me</strong>
-</h2>
-</div>
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="position: relative; top: -5px;" /><strong>About me</strong>
 <a target="_blank">
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 </a>
@@ -35,25 +31,32 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools
-<br>
+<!--Third section on language and tools -->
+ ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=angular,java,ts,js,html,css,git,github,selenium,npm,postgres,mysql,figma,nodejs,vscode,idea&perline=8" />
 </p>
-<div align="center" >
- <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="100px"/>
+
+<div align="center">
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDI5ZG5jMm4xeGRsam43dWV2NTJ0eDczczN1ZnlndjU3ZGoxaHcyZyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/rA75HDLmM73mHiyilS/giphy.gif" width="100px"/>
+	 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dm83MmNsZG1zaTZva3E4bDVzZjhsbXVuamVpY3ZhZWRxZHM4NzNzcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iO0nZOcWhEjzQ3hvhE/giphy.gif" width="100px"/>
 </div>
 
 <div align="center">
-### 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 
----
 
-  ### 📈 GitHub Stats
+<div align="center">
+   🐍 GitHub Contribution Snake
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+
+  ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SebasCodeDeveloper&show_icons=true&theme=tokyonight&border_radius=20" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SebasCodeDeveloper&theme=tokyonight&hide_border=false" width="45%" />
@@ -63,9 +66,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasCodeDeveloper&layout=compact&theme=tokyonight&border_radius=20" width="45%" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=SebasCodeDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="SebasCodeDeveloper" />
-
----
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=SebasCodeDeveloper&style=plastic&color=blueviolet"alt="SebasCodeDeveloper"/>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📫 Contact Me
 
@@ -76,21 +80,13 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<h3 align="center"><strong>💻 Languages & Tools</strong></h3>
 
 
+<div align="right">
+ <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="100px"/>
+ <img src="https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif" width="280px" alt="Dino playing game" />
+</div>
 
-
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 
 
 
@@ -154,7 +150,7 @@
 </div>
 
 
-![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
+
 
 
   <img align="center" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100" />
