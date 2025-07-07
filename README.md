@@ -85,11 +85,11 @@
 
 
 <p align="center">
-  <a href="mailto:tien.huynhlt.tn@gmail.com" >
+  <a href="mailto:tien.huynhlt.tn@gmail.com" target="_blank" style="outline: none;">
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/gmail.gif" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
+  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank" style="outline: none;">
     <img align="center" alt="TienHuynh-TN | Linkedin" width="43px" src="https://media3.giphy.com/media/a9eTxCdJhDU98Jp79g/giphy.gif" />
   </a> &nbsp;&nbsp;
   
