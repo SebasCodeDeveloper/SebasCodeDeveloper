@@ -73,17 +73,8 @@
 
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 
-<div align="right">
- <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="100px"/>
- <img src="https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif" width="280px" alt="Dino playing game" />
+<br><br>
 </div>
-
-
-
-
-
-
-
 <p align="center">
   <a href="mailto:tien.huynhlt.tn@gmail.com"  style="outline: none; border: none;">
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/gmail.gif" />
@@ -103,16 +94,19 @@
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
     <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW91YjQ0eHppM2c5bmluajMyN2VhaW1xeDY5djI0YXMyYm9nYjN0aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/OFEabGCcVqsckIGn8G/giphy.gif" />
-  </a> &nbsp;&nbsp;
-<p> 
+  </a> &nbsp;&nbsp; 
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2021 Tien Huynh tienhuynh-tn
+</div> <br> 
+
+<div align="center"> 
+  <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="100px"/>
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </div>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+
+
 
 
 
