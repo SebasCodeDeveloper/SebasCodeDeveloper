@@ -35,28 +35,14 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-### 🛠️ Languages and Tools
-
+ ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools
+<br>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
- <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60"/>
-  <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="60" style="background-color:white; padding:6px; border-radius:10px;"/>
-
+<img src="https://skillicons.dev/icons?i=angular,java,ts,js,html,css,git,github,selenium,npm,postgres,mysql,figma,nodejs,vscode,idea&perline=8" />
+</p>
+<div align="center" >
+ <img src="https://github.com/SebasCodeDeveloper/SebasCodeDeveloper/blob/main/dbchihl-d82fbe86-c8a6-4ca9-a719-7eddd7583d11.png?raw=true" width="100px"/>
+</div>
 
 <div align="center">
 ### 🐍 GitHub Contribution Snake
@@ -67,7 +53,7 @@
 
 ---
 
-### 📈 GitHub Stats
+  ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SebasCodeDeveloper&show_icons=true&theme=tokyonight&border_radius=20" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SebasCodeDeveloper&theme=tokyonight&hide_border=false" width="45%" />
@@ -96,11 +82,11 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
+<h3 align="center"><strong>💻 Languages & Tools</strong></h3>
+
+
+
+
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -149,6 +135,9 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/npm-icon.svg" alt="icon" width="50" height="50" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
+
 </div>
 
 <br>
@@ -159,8 +148,12 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" height="50"/>
+
+
 </div>
+
+
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
 
