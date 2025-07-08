@@ -21,18 +21,22 @@
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="position: relative; top: -5px;" /><strong>About me</strong>
 
 
-<ul>
-<li> 💻 Passionate about **web development** and **test automation**</li>
-<li> ⚙️ Experienced in **Java**, **Angular**, **Selenium**, **JUnit**</li>
-<li> 🧪 Skilled in functional, regression, and automated testing</li>
-<li> 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira**</li>  
-<li> 🚀 Constantly learning and improving internal systems through automation</li>
 
-</ul>
+<picture target="_blank" align="center"> <img align="right" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width = 300px></picture>
 
-<div target="_blank" align="center">
-  <img align="center" align="center" top="500" height="300px" width="300px" alt="GIF" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">	
-</div> 
+<br>
+
+ - 💻 Passionate about **web development** and **test automation**
+ - ⚙️ Experienced in **Java**, **Angular**, **Selenium**, **JUnit**
+ - 🧪 Skilled in functional, regression, and automated testing
+ - 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira**  
+ - 🚀 Constantly learning and improving internal systems through automation
+
+
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Third section on language and tools -->
