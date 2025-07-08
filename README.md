@@ -22,22 +22,19 @@
 
 
 
-<table>
-  <tr>
-    <td>
-      
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="250px"/>
+</div>
+
+<div align="left">
+
 - 💻 Passionate about **web development** and **test automation**  
 - ⚙️ Experienced in **Java**, **Angular**, **Selenium**, **JUnit**  
 - 🧪 Skilled in functional, regression, and automated testing  
 - 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira**  
 - 🚀 Constantly learning and improving internal systems through automation  
 
-    </td>
-    <td>
-      <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="200px">
-    </td>
-  </tr>
-</table>
+</div>
 
 
 
