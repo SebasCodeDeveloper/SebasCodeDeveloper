@@ -21,8 +21,8 @@
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="position: relative; top: -5px;" /><strong>About me</strong>
 
 <a target="_blank" align="center">
-  <img align="right" top="5000px" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-</a><br>
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+</a><br> <br>
 
 - 💻 Passionate about **web development** and **test automation**
 - ⚙️ Experienced in **Java**, **Angular**, **Selenium**, **JUnit**
