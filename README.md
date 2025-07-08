@@ -27,11 +27,11 @@
 <li> 🧪 Skilled in functional, regression, and automated testing</li>
 <li> 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira**</li>  
 <li> 🚀 Constantly learning and improving internal systems through automation</li>
-<li  target="_blank" align="right">
-  <img align="center" align="right" top="500" height="300px" width="300px" alt="GIF" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"></li>	
+
 </ul>
 
-<div 
+<div target="_blank" align="center">
+  <img align="center" align="center" top="500" height="300px" width="300px" alt="GIF" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">	
 </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
