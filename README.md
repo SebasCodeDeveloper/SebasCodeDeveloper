@@ -20,15 +20,18 @@
 <!-- Seccons section withits due adjustments -->
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="position: relative; top: -5px;" /><strong>About me</strong>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="500px" width="500px" alt="GIF" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-</a>  <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
 
-- 💻 Passionate about **web development** and **test automation**
-- ⚙️ Experienced in **Java**, **Angular**, **Selenium**, **JUnit**
-- 🧪 Skilled in functional, regression, and automated testing
-- 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira**  
-- 🚀 Constantly learning and improving internal systems through automation
+<ul align="left">
+<li> 💻 Passionate about **web development** and **test automation**</li>
+<li> ⚙️ Experienced in **Java**, **Angular**, **Selenium**, **JUnit**</li>
+<li> 🧪 Skilled in functional, regression, and automated testing</li>
+<li> 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira**</li>  
+<li> 🚀 Constantly learning and improving internal systems through automation</li>
+</ul>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300px" width="300px" alt="GIF" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+</a> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Third section on language and tools -->
