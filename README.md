@@ -20,7 +20,7 @@
 <!-- Seccons section withits due adjustments -->
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="position: relative; top: -5px;" /><strong>About me</strong>
 
-<picture target="_blank" align="center"> <img align="right" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width = 430px></picture>
+
 
 
 - 💻 Passionate about **web development** and **test automation** 
@@ -28,6 +28,9 @@
 - 🧪 Skilled in functional, regression, and automated testing 
 - 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira** 
 - 🚀 Constantly learning and improving internal systems through automation  
+<picture target="_blank" align="center">
+<img align="right" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width = 430px></picture>
+
 
 
 
