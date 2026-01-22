@@ -26,7 +26,7 @@
 
 
 - 💻 Passionate about **web development** and **test automation** 
-- ⚙️ Experienced in **Java**, **Angular**, **Selenium**, **JUnit** 
+- ⚙️ Experienced in **Java**, **Angular**,**Spring Boot**, **Selenium**, **JUnit** 
 - 🧪 Skilled in functional, regression, and automated testing 
 - 🔄 Proficient in **SCRUM**, Git, and collaborative tools like **Jira** 
 - 🚀 Constantly learning and improving internal systems through automation  
