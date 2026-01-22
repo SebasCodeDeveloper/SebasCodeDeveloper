@@ -13,7 +13,7 @@
 <img  src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100' />
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" />
 </p>
-  <b>Web Developer</b> | <b>QA Automation Engineer</b> 
+  <b>Desarrollador Java | Angular | QA Automation Engineer | Spring Boot | Especialista en Automatización de Pruebas (Selenium & JUnit)</b> 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </div>
 
